@@ -2,6 +2,10 @@ source "https://rubygems.org"
 
 ruby "2.0.0"
 
+gem "nokogiri"
+gem "rest-client"
+gem "mongoid"
+
 # gem "rails", "3.2.13"
 # gem "haml"
 # gem "sass"
